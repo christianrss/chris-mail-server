@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "bit": "c",
+        "compare": "c",
+        "limits": "c",
+        "type_traits": "c",
+        "__config": "c",
+        "chrisutils.h": "c",
+        "assert.h": "c",
+        "chrismail.h": "c",
+        "stdio.h": "c"
+    }
+}
